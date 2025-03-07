@@ -1,0 +1,10 @@
+ERROR - 2024-06-26 16:32:47 --> Severity: Warning --> Undefined array key "pg_twk" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-06-26 16:32:47 --> Severity: Warning --> Undefined array key "pg_tiu" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-06-26 16:32:47 --> Severity: Warning --> Undefined array key "pg_tkp" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-06-26 20:13:12 --> Severity: Warning --> Undefined array key "pg_twk" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-06-26 20:13:12 --> Severity: Warning --> Undefined array key "pg_tiu" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-06-26 20:13:12 --> Severity: Warning --> Undefined array key "pg_tkp" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-06-26 22:41:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-26 22:50:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-26 22:54:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-26 22:58:34 --> 404 Page Not Found: Robotstxt/index

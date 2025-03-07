@@ -1,0 +1,2 @@
+ERROR - 2023-06-30 09:29:46 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it C:\xampp\htdocs\pendataan_diskom_batola\lib\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2023-06-30 09:29:46 --> Unable to connect to the database

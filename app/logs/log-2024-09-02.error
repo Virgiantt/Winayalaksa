@@ -1,0 +1,99 @@
+ERROR - 2024-09-02 01:18:06 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:18:13 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:29:55 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:29:56 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:06 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:18 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:18 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:18 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:18 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:18 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:22 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:23 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:30:23 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:31:21 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:36:35 --> Severity: error --> Exception: Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:38:18 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:38:18 --> Unable to connect to the database
+ERROR - 2024-09-02 01:44:23 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:44:23 --> Unable to connect to the database
+ERROR - 2024-09-02 01:44:23 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:44:23 --> Unable to connect to the database
+ERROR - 2024-09-02 01:44:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:44:28 --> Unable to connect to the database
+ERROR - 2024-09-02 01:44:45 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:44:45 --> Unable to connect to the database
+ERROR - 2024-09-02 01:45:00 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:45:00 --> Unable to connect to the database
+ERROR - 2024-09-02 01:45:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:45:13 --> Unable to connect to the database
+ERROR - 2024-09-02 01:45:16 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:45:16 --> Unable to connect to the database
+ERROR - 2024-09-02 01:45:20 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:45:20 --> Unable to connect to the database
+ERROR - 2024-09-02 01:45:53 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:45:53 --> Unable to connect to the database
+ERROR - 2024-09-02 01:45:53 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:45:53 --> Unable to connect to the database
+ERROR - 2024-09-02 01:46:25 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:46:25 --> Unable to connect to the database
+ERROR - 2024-09-02 01:47:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:47:13 --> Unable to connect to the database
+ERROR - 2024-09-02 01:47:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:47:13 --> Unable to connect to the database
+ERROR - 2024-09-02 01:47:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:47:13 --> Unable to connect to the database
+ERROR - 2024-09-02 01:47:14 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 01:47:14 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:26 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:26 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:27 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:27 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:30 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:30 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:31 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:31 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:34 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:34 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:35 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:35 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:37 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:37 --> Unable to connect to the database
+ERROR - 2024-09-02 02:02:38 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:02:38 --> Unable to connect to the database
+ERROR - 2024-09-02 02:49:36 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:49:36 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 02:49:36 --> Unable to connect to the database
+ERROR - 2024-09-02 02:49:36 --> Unable to connect to the database
+ERROR - 2024-09-02 03:00:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 03:00:50 --> Unable to connect to the database
+ERROR - 2024-09-02 03:01:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 03:01:50 --> Unable to connect to the database
+ERROR - 2024-09-02 04:30:47 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 04:30:47 --> Unable to connect to the database
+ERROR - 2024-09-02 04:30:48 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 04:30:48 --> Unable to connect to the database
+ERROR - 2024-09-02 04:30:50 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 04:30:50 --> Unable to connect to the database
+ERROR - 2024-09-02 04:31:03 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 04:31:03 --> Unable to connect to the database
+ERROR - 2024-09-02 04:31:04 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 04:31:04 --> Unable to connect to the database
+ERROR - 2024-09-02 04:31:06 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 04:31:06 --> Unable to connect to the database
+ERROR - 2024-09-02 04:44:38 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 04:44:38 --> Unable to connect to the database
+ERROR - 2024-09-02 05:38:14 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 05:38:14 --> Unable to connect to the database
+ERROR - 2024-09-02 05:38:15 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 05:38:15 --> Unable to connect to the database
+ERROR - 2024-09-02 05:44:34 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 05:44:34 --> Unable to connect to the database
+ERROR - 2024-09-02 05:44:35 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 05:44:35 --> Unable to connect to the database
+ERROR - 2024-09-02 10:32:28 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 10:32:28 --> Unable to connect to the database
+ERROR - 2024-09-02 16:30:22 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 16:30:22 --> Unable to connect to the database
+ERROR - 2024-09-02 18:30:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-02 18:30:29 --> Unable to connect to the database

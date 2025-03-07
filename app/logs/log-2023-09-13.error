@@ -1,0 +1,220 @@
+ERROR - 2023-09-13 19:15:24 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-13 19:15:24 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-13 19:24:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:24:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:24:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:24:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:28:58 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:28:58 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:29:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:29:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:32:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:32:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:32:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:32:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:34:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:34:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:35:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:35:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:36:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:36:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:46 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:46 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:51 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:51 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:37:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:38:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:38:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:38:46 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:38:46 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:38:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:38:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:39:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:39:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:42:55 --> Query error: Column 'question_id' in where clause is ambiguous - Invalid query: SELECT `question_detail`.*, `choice`.`order`
+FROM `question_detail`
+LEFT JOIN `question` ON `question_detail`.`question_id` = `question`.`id`
+LEFT JOIN `answer` ON `question`.`id` = `answer`.`question_id`
+LEFT JOIN `answer_detail` ON `answer`.`id` = `answer_detail`.`answer_id`
+LEFT JOIN `choice` ON `answer_detail`.`choice_id` = `choice`.`id`
+WHERE `question_id` = '1'
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2023-09-13 19:43:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:43:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:44:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:44:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:45:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:45:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:45:53 --> Severity: error --> Exception: syntax error, unexpected single-quoted string "answer.user_id", expecting "]" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 112
+ERROR - 2023-09-13 19:45:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:45:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:14 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:14 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:53 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:53 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:46:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:48:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:48:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:49:38 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:49:38 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:49:45 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:49:45 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:49:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:49:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:50:00 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:50:00 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:51:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:51:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:56:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:56:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:56:37 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 19:56:37 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:00:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:00:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:00:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:00:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:00:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:03:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'THEN '') as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_' at line 1 - Invalid query: SELECT `question_detail`.*, (CASE WHEN answer_detail.answer_id = '3' THEN choice.order THEN '') as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`.`id` = `answer_detail`.`question_detail_id`
+LEFT JOIN `choice` ON `answer_detail`.`choice_id` = `choice`.`id`
+WHERE `question_id` = '1'
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2023-09-13 20:03:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`' at line 1 - Invalid query: SELECT `question_detail`.*, (CASE WHEN answer_detail.answer_id = '3' THEN choice.order ELSE '') as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`.`id` = `answer_detail`.`question_detail_id`
+LEFT JOIN `choice` ON `answer_detail`.`choice_id` = `choice`.`id`
+WHERE `question_id` = '1'
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2023-09-13 20:04:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`' at line 1 - Invalid query: SELECT `question_detail`.*, (CASE WHEN answer_detail.answer_id = '3' THEN choice.order ELSE null) as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`.`id` = `answer_detail`.`question_detail_id`
+LEFT JOIN `choice` ON `answer_detail`.`choice_id` = `choice`.`id`
+WHERE `question_id` = '1'
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2023-09-13 20:04:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`.`id`' at line 1 - Invalid query: SELECT `question_detail`.*, (CASE WHEN answer_detail.answer_id = '3' THEN choice.order ELSE '' END) as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`.`id` = `answer_detail`.`question_detail_id`
+LEFT JOIN `choice` ON `answer_detail`.`choice_id` = `choice`.`id`
+WHERE `question_id` = '1'
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2023-09-13 20:05:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`.`id`' at line 1 - Invalid query: SELECT `question_detail`.*, (CASE WHEN answer_detail.answer_id = '3' THEN choice.order ELSE null END) as order
+FROM `question_detail`
+LEFT JOIN `answer_detail` ON `question_detail`.`id` = `answer_detail`.`question_detail_id`
+LEFT JOIN `choice` ON `answer_detail`.`choice_id` = `choice`.`id`
+WHERE `question_id` = '1'
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2023-09-13 20:05:20 --> Severity: Warning --> Undefined array key "order" D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 58
+ERROR - 2023-09-13 20:05:20 --> Severity: Warning --> Undefined array key "order" D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 58
+ERROR - 2023-09-13 20:05:20 --> Severity: Warning --> Undefined array key "order" D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 58
+ERROR - 2023-09-13 20:05:20 --> Severity: Warning --> Undefined array key "order" D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 58
+ERROR - 2023-09-13 20:05:20 --> Severity: Warning --> Undefined array key "order" D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 58
+ERROR - 2023-09-13 20:05:21 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:05:21 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:05:26 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:05:26 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:10:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:10:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:11:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:11:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:11:38 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:11:38 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:11:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:11:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:14:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:14:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:15:37 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:15:37 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:15:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'group by question.id' at line 1 - Invalid query: SELECT question.*,answer.id as answer, (select count(question_detail.id) FROM question_detail where question_detail.question_id = question.id) as count_question FROM question LEFT JOIN answer ON answer.question_id = question.id where question.type = 'practice' and question.status = '1' order by question.id desc group by question.id
+ERROR - 2023-09-13 20:15:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:15:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:16:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:16:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:20:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:20:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:20:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:20:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:52:52 --> Query error: Unknown column 'choice.id' in 'on clause' - Invalid query: SELECT sum(choice.point) as total_point
+FROM `answer`
+LEFT JOIN `answer_detail` ON `choice`.`id` = `answer`.`id`
+LEFT JOIN `choice` ON `choice`.`id` = `answer_detail`.`choice_id`
+WHERE `answer`.`id` = '27'
+GROUP BY `answer`.`id`
+ERROR - 2023-09-13 20:53:22 --> Severity: Warning --> Undefined variable $question_detail D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:53:22 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:53:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:53:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:55:23 --> Severity: Warning --> Undefined variable $question_detail D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:55:23 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:55:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:55:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:56:47 --> Severity: Warning --> Undefined variable $question_detail D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:56:47 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:56:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:56:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:56:49 --> Severity: Warning --> Undefined variable $question_detail D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:56:49 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 20:56:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:56:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:57:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:57:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:57:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:57:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:58:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:58:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:58:35 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:58:35 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:58:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:58:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:59:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 20:59:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:04:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:04:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:04:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:04:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:04:53 --> Severity: error --> Exception: Undefined constant "Lulus" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 73
+ERROR - 2023-09-13 21:05:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:05:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:05:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:05:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:05:37 --> Severity: Warning --> Undefined variable $question_detail D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 21:05:37 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 21:05:37 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:05:37 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:06:04 --> Severity: Warning --> Undefined variable $question_detail D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 21:06:04 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 82
+ERROR - 2023-09-13 21:06:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:06:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:06:12 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:06:12 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:08:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-13 21:08:41 --> 404 Page Not Found: Assets/js

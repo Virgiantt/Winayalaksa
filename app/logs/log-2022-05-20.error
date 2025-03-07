@@ -1,0 +1,9 @@
+ERROR - 2022-05-20 08:04:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2022-05-20 08:11:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-05-20 08:33:31 --> Could not find the language line "form_validation_unique"
+ERROR - 2022-05-20 08:49:08 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_result::order_by() C:\laragon\www\infly-new\app\models\Api\Client_model.php 13
+ERROR - 2022-05-20 08:49:19 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_result::orderby() C:\laragon\www\infly-new\app\models\Api\Client_model.php 13
+ERROR - 2022-05-20 08:49:52 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_result::order_by() C:\laragon\www\infly-new\app\models\Api\Client_model.php 13
+ERROR - 2022-05-20 09:04:42 --> 404 Page Not Found: api/Client/terimination
+ERROR - 2022-05-20 09:40:20 --> Could not find the language line "form_validation_edit_unique"
+ERROR - 2022-05-20 10:03:01 --> 404 Page Not Found: Kode_dp_area/index

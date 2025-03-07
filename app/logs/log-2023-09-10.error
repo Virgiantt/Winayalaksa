@@ -1,0 +1,307 @@
+ERROR - 2023-09-10 13:47:13 --> Severity: Warning --> mysqli::real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it D:\www\creativeplay\lms_winayalaksa\lib\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2023-09-10 13:47:13 --> Unable to connect to the database
+ERROR - 2023-09-10 17:06:51 --> Severity: error --> Exception: syntax error, unexpected token "}" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 43
+ERROR - 2023-09-10 17:07:01 --> Severity: Warning --> Undefined variable $data D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 11
+ERROR - 2023-09-10 17:07:01 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 11
+ERROR - 2023-09-10 17:07:01 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 11
+ERROR - 2023-09-10 17:15:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:15:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:19:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:19:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:19:35 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:19:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:19:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:19:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 0 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 1 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 2 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 3 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 0 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 1 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 2 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 3 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 0 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 1 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 2 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 3 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 0 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 20
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 1 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 21
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 2 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 22
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Undefined array key 3 D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:34 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\views\user\do_latihan\index.php 23
+ERROR - 2023-09-10 17:20:35 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:20:35 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:21:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:22:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:22:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:22:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:22:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:22:50 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:22:50 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:52 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:25:52 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:50 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:26:50 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:07 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:12 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:12 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:27:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:01 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:17 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:17 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:45 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:45 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:58 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:28:58 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:17 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:17 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:31 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:29:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:30:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:30:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:31:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:31:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:31:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:31:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:33:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:33:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:34:02 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:34:02 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:36:07 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:36:07 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:36:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:36:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:38:02 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:38:02 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:38:17 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:38:17 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:09 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:09 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:52 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:39:52 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:40:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:40:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:40:08 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:40:08 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:40:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:40:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:41:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:41:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:38 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:43:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:45:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:46:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:46:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:47:09 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:47:09 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:47:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:47:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:48:12 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 17:48:12 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:44:13 --> Severity: error --> Exception: syntax error, unexpected single-quoted string "choice_id", expecting "]" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 52
+ERROR - 2023-09-10 19:44:27 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 50
+ERROR - 2023-09-10 19:44:27 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 51
+ERROR - 2023-09-10 19:44:27 --> Severity: Warning --> Undefined variable $choice D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 52
+ERROR - 2023-09-10 19:44:27 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 52
+ERROR - 2023-09-10 19:44:27 --> Query error: Unknown column 'answer_id' in 'field list' - Invalid query: INSERT INTO `answer` (`answer_id`, `question_detail_id`, `choice_id`) VALUES (NULL, NULL, NULL)
+ERROR - 2023-09-10 19:45:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:45:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:45:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:45:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Undefined array key "id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 42
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Undefined array key "id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 43
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 44
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 46
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 47
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 47
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 57
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 58
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 59
+ERROR - 2023-09-10 19:45:59 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`) VALUES (NULL, NULL, NULL)
+ERROR - 2023-09-10 19:45:59 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at D:\www\creativeplay\lms_winayalaksa\lib\core\Exceptions.php:271) D:\www\creativeplay\lms_winayalaksa\lib\core\Common.php 570
+ERROR - 2023-09-10 19:46:31 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Answer_model.php 58
+ERROR - 2023-09-10 19:46:31 --> Query error: Column 'question_detail_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`) VALUES ('1', NULL, '16')
+ERROR - 2023-09-10 19:52:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:52:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:52:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:52:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:52:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:52:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:58:35 --> Severity: error --> Exception: Call to undefined method CI_DB_mysqli_driver::selet() D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 49
+ERROR - 2023-09-10 19:58:45 --> Query error: Unknown column 'user_id' in 'where clause' - Invalid query: SELECT `question_detail`.*, `answer_detail`.`choice_id`
+FROM `question_detail`
+JOIN `answer_detail` ON `question_detail`.`id` = `answer_detail`.`question_detail_id`
+WHERE `question_id` = '1'
+AND `user_id` = '2'
+ERROR - 2023-09-10 19:59:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:59:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:59:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 19:59:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:00:31 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:00:31 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:00:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:00:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:01:08 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:01:08 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:01:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:01:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:01:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:01:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:02:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:02:48 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:03:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:03:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:51 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:51 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:56 --> 404 Page Not Found: User/question
+ERROR - 2023-09-10 20:04:58 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:04:58 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:05:21 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:05:21 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:05:22 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:05:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:06:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:06:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:06:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:06:10 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:06:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:06:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:30:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:30:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:32:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:32:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:32:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:32:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:32:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:32:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:32:34 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT question.*,answer.id as answer FROM question LEFT JOIN answer ON answer.question_id = question.id where id = 1 order by id desc
+ERROR - 2023-09-10 20:33:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:33:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:33:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:33:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:33:52 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:33:52 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:35:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:35:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:35:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 20:35:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 21:13:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 21:13:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 22:23:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 22:23:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 22:23:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 22:23:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:36:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:36:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:42:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:42:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:44:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:44:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:57:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:57:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:58:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:58:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:58:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:58:33 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:58:52 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-10 23:58:52 --> 404 Page Not Found: Assets/js

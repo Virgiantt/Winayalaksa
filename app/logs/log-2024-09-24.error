@@ -1,0 +1,67 @@
+ERROR - 2024-09-24 01:53:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 03:27:55 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-09-24 10:08:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 11:11:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 11:13:52 --> 404 Page Not Found: Wp_loginphp/index
+ERROR - 2024-09-24 11:24:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 12:29:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 12:40:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 14:07:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 14:43:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 15:34:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 15:51:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 16:03:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-09-24 16:05:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 16:17:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 16:18:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 16:18:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 16:19:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 18:05:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 18:52:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:04:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:07:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:07:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:08:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:09:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:10:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:10:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:13:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:13:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:13:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:14:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:14:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:35:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:46:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:47:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:47:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:47:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 19:48:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-24 19:48:28 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-24 19:48:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-24 19:48:28 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-24 19:48:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-24 19:48:28 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-24 19:48:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-24 19:48:35 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-09-24 19:48:35 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-09-24 19:48:35 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-09-24 19:48:35 --> Query error: Unknown column '%3Cdiv%20style=' in 'field list' - Invalid query: SELECT `question_detail`.*, (SELECT answer_detail.selected from answer_detail where answer_detail.answer_id = '%3Cdiv%20style=' and answer_detail.question_detail_id = question_detail.id) as checked, `%3Cdiv%20style=` as `answer_id`
+FROM `question_detail`
+WHERE `question_detail`.`question_id` IS NULL
+GROUP BY `question_detail`.`id`
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2024-09-24 20:33:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 20:59:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:03:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:03:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:06:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:09:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:10:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:12:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:12:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:22:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 21:55:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 22:12:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 22:12:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 22:14:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-24 22:39:00 --> 404 Page Not Found: Faviconico/index

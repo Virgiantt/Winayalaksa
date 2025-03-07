@@ -1,0 +1,101 @@
+ERROR - 2023-09-24 11:45:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:45:11 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:47:00 --> 404 Page Not Found: Admin/foto
+ERROR - 2023-09-24 11:47:04 --> 404 Page Not Found: Admin/foto
+ERROR - 2023-09-24 11:47:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:47:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:48:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:48:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:50:49 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) D:\www\creativeplay\lms_winayalaksa\app\views\admin\app\navbar.php 43
+ERROR - 2023-09-24 11:51:02 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) D:\www\creativeplay\lms_winayalaksa\app\views\admin\app\navbar.php 43
+ERROR - 2023-09-24 11:51:12 --> Severity: Compile Error --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead) D:\www\creativeplay\lms_winayalaksa\app\views\admin\app\navbar.php 43
+ERROR - 2023-09-24 11:51:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:51:28 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:23 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:32 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:39 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:51 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:51 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:53:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:54:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:54:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:03 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:08 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:08 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:14 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:14 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:55:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:58:19 --> Severity: Warning --> Undefined array key "foto" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Security_model.php 32
+ERROR - 2023-09-24 11:58:21 --> Severity: Warning --> Undefined array key "foto" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Security_model.php 32
+ERROR - 2023-09-24 11:58:24 --> Severity: Warning --> Undefined array key "foto" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Security_model.php 32
+ERROR - 2023-09-24 11:59:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:59:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:59:16 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 19
+ERROR - 2023-09-24 11:59:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    group by question.id 
+                    order by quest' at line 6 - Invalid query: 
+                    SELECT question.*,answer.id as answer_id, (select count(question_detail.id) FROM question_detail where question_detail.question_id = question.id) as count_question 
+                    FROM question 
+                    LEFT JOIN answer ON answer.question_id = question.id 
+                    where question.type = 'exam' 
+                    and question.status = '1'
+                    and question.id in()
+                    group by question.id 
+                    order by question.id desc
+                
+ERROR - 2023-09-24 11:59:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:59:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:59:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:59:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:59:18 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 19
+ERROR - 2023-09-24 11:59:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')
+                    group by question.id 
+                    order by quest' at line 6 - Invalid query: 
+                    SELECT question.*,answer.id as answer_id, (select count(question_detail.id) FROM question_detail where question_detail.question_id = question.id) as count_question 
+                    FROM question 
+                    LEFT JOIN answer ON answer.question_id = question.id 
+                    where question.type = 'exam' 
+                    and question.status = '1'
+                    and question.id in()
+                    group by question.id 
+                    order by question.id desc
+                
+ERROR - 2023-09-24 11:59:19 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 154
+ERROR - 2023-09-24 11:59:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 11:59:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 12:00:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 154
+ERROR - 2023-09-24 12:00:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 12:00:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 12:01:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 12:01:13 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 12:01:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 12:01:18 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 16:27:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 16:27:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-24 17:42:11 --> 404 Page Not Found: Admin/detail_latihan
+ERROR - 2023-09-24 17:46:40 --> Severity: Compile Error --> Cannot redeclare Admin::print() D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 337
+ERROR - 2023-09-24 17:56:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 19
+ERROR - 2023-09-24 17:56:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+                    group by question.id 
+                    order by qu...' at line 6 - Invalid query: 
+                    SELECT question.*,answer.id as answer_id, (select count(question_detail.id) FROM question_detail where question_detail.question_id = question.id) as count_question 
+                    FROM question 
+                    LEFT JOIN answer ON answer.question_id = question.id 
+                    where question.type = 'exam' 
+                    and question.status = '1'
+                    and question.id in()
+                    group by question.id 
+                    order by question.id desc
+                

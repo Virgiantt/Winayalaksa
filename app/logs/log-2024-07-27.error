@@ -1,0 +1,207 @@
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Wp_includes/ID3
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Feed/index
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Blog/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Web/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Wordpress/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Wp/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: 2020/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: 2019/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: 2021/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Shop/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Wp1/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Test/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Site/wp_includes
+ERROR - 2024-07-27 09:21:41 --> 404 Page Not Found: Cms/wp_includes
+ERROR - 2024-07-27 10:45:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-27 10:46:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-27 18:35:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-07-27 20:15:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:15:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:15:18 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2174', '10821', 'A')
+ERROR - 2024-07-27 20:15:39 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:15:39 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:15:39 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2175', '10828', 'C')
+ERROR - 2024-07-27 20:16:01 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:16:01 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:16:01 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2176', '10834', 'D')
+ERROR - 2024-07-27 20:16:26 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:16:26 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:16:26 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2177', '10839', 'D')
+ERROR - 2024-07-27 20:16:56 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:16:56 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:16:56 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2178', '10843', 'C')
+ERROR - 2024-07-27 20:17:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:17:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:17:25 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2179', '10847', 'B')
+ERROR - 2024-07-27 20:17:47 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:17:47 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:17:47 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2180', '10855', 'E')
+ERROR - 2024-07-27 20:18:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:18:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:18:08 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2181', '10860', 'E')
+ERROR - 2024-07-27 20:18:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:18:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:18:33 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2182', '10862', 'B')
+ERROR - 2024-07-27 20:19:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:19:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:19:08 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2183', '10866', 'A')
+ERROR - 2024-07-27 20:19:34 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:19:34 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:19:34 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2184', '10871', 'A')
+ERROR - 2024-07-27 20:20:09 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:20:09 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:20:09 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2185', '10877', 'B')
+ERROR - 2024-07-27 20:20:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:20:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:20:28 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2186', '10884', 'D')
+ERROR - 2024-07-27 20:20:50 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:20:50 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:20:50 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2187', '10887', 'B')
+ERROR - 2024-07-27 20:21:11 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:21:11 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:21:11 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2188', '10891', 'A')
+ERROR - 2024-07-27 20:21:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:21:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:21:44 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2074', '10324', 'D')
+ERROR - 2024-07-27 20:22:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:22:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:22:25 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2081', '10360', 'E')
+ERROR - 2024-07-27 20:23:45 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:23:45 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:23:45 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2082', '10364', 'D')
+ERROR - 2024-07-27 20:24:23 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:24:23 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:24:23 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2083', '10368', 'C')
+ERROR - 2024-07-27 20:25:37 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:25:37 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:25:37 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2084', '10372', 'B')
+ERROR - 2024-07-27 20:26:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:26:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:26:03 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2085', '10376', 'A')
+ERROR - 2024-07-27 20:26:55 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:26:55 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:26:55 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2086', '10383', 'C')
+ERROR - 2024-07-27 20:27:43 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:27:43 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:27:43 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2087', '10387', 'B')
+ERROR - 2024-07-27 20:28:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:28:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:28:20 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2088', '10392', 'B')
+ERROR - 2024-07-27 20:28:41 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:28:41 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:28:41 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2089', '10400', 'E')
+ERROR - 2024-07-27 20:29:05 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:29:05 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:29:05 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2090', '10405', 'E')
+ERROR - 2024-07-27 20:29:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:29:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:29:28 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2091', '10410', 'E')
+ERROR - 2024-07-27 20:29:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:29:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:29:51 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2092', '10415', 'E')
+ERROR - 2024-07-27 20:30:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:30:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:30:24 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2150', '10701', 'A')
+ERROR - 2024-07-27 20:34:23 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:34:23 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:34:23 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2081', '10356', 'A')
+ERROR - 2024-07-27 20:35:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:35:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:35:08 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2083', '10367', 'B')
+ERROR - 2024-07-27 20:35:53 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:35:53 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:35:53 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2085', '10379', 'D')
+ERROR - 2024-07-27 20:38:49 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:38:49 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:38:49 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2144', '10672', 'B')
+ERROR - 2024-07-27 20:39:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:39:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:39:20 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2146', '10684', 'D')
+ERROR - 2024-07-27 20:39:36 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:39:36 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:39:36 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2147', '10686', 'A')
+ERROR - 2024-07-27 20:40:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:40:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:40:18 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2075', '10326', 'A')
+ERROR - 2024-07-27 20:40:38 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:40:38 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:40:38 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2077', '10339', 'D')
+ERROR - 2024-07-27 20:41:00 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:41:00 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:41:00 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2149', '10696', 'A')
+ERROR - 2024-07-27 20:41:16 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:41:16 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:41:16 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2150', '10704', 'D')
+ERROR - 2024-07-27 20:43:15 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:43:15 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:43:15 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2153', '10716', 'A')
+ERROR - 2024-07-27 20:43:56 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:43:56 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:43:56 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2155', '10726', 'A')
+ERROR - 2024-07-27 20:44:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:44:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:44:14 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2156', '10731', 'A')
+ERROR - 2024-07-27 20:44:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:44:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:44:33 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2157', '10740', 'E')
+ERROR - 2024-07-27 20:44:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:44:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:44:51 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2158', '10745', 'E')
+ERROR - 2024-07-27 20:46:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:46:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:46:33 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2163', '10768', 'C')
+ERROR - 2024-07-27 20:46:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:46:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:46:46 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2164', '10772', 'B')
+ERROR - 2024-07-27 20:47:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:47:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:47:03 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2165', '10777', 'B')
+ERROR - 2024-07-27 20:48:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:48:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:48:28 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2170', '10804', 'D')
+ERROR - 2024-07-27 20:48:55 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:48:55 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:48:55 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2076', '10332', 'B')
+ERROR - 2024-07-27 20:49:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:49:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:49:04 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2079', '10346', 'A')
+ERROR - 2024-07-27 20:49:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:49:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:49:04 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2079', '10347', 'B')
+ERROR - 2024-07-27 20:49:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:49:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:49:07 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2079', '10346', 'A')
+ERROR - 2024-07-27 20:49:16 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:49:16 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:49:16 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2080', '10354', 'D')
+ERROR - 2024-07-27 20:49:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:49:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:49:18 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2080', '10352', 'B')
+ERROR - 2024-07-27 20:50:29 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:50:29 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:50:29 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2094', '10423', 'C')
+ERROR - 2024-07-27 20:51:41 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:51:41 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:51:41 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2175', '10827', 'B')
+ERROR - 2024-07-27 20:53:01 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:53:01 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:53:01 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2093', '10416', 'A')
+ERROR - 2024-07-27 20:53:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:53:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:53:28 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2179', '10848', 'C')
+ERROR - 2024-07-27 20:53:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:53:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:53:51 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2180', '10853', 'C')
+ERROR - 2024-07-27 20:54:11 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:54:11 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:54:11 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2096', '10432', 'B')
+ERROR - 2024-07-27 20:54:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:54:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:54:14 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2097', '10440', 'E')
+ERROR - 2024-07-27 20:54:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:54:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:54:17 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2098', '10441', 'A')
+ERROR - 2024-07-27 20:54:41 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-07-27 20:54:41 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-07-27 20:54:41 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '2095', '10427', 'B')

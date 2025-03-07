@@ -1,0 +1,45 @@
+ERROR - 2024-05-07 04:18:57 --> Severity: Warning --> Undefined array key "pg_twk" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-05-07 04:18:57 --> Severity: Warning --> Undefined array key "pg_tiu" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-05-07 04:18:57 --> Severity: Warning --> Undefined array key "pg_tkp" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-05-07 05:01:41 --> Severity: Warning --> Undefined array key "pg_twk" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-05-07 05:01:41 --> Severity: Warning --> Undefined array key "pg_tiu" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-05-07 05:01:41 --> Severity: Warning --> Undefined array key "pg_tkp" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-05-07 05:03:18 --> Severity: Warning --> Undefined array key "pg_twk" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-05-07 05:03:18 --> Severity: Warning --> Undefined array key "pg_tiu" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-05-07 05:03:18 --> Severity: Warning --> Undefined array key "pg_tkp" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-05-07 21:53:50 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-05-07 21:53:50 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-05-07 21:53:50 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1074', '5323', 'C')
+ERROR - 2024-05-07 21:53:56 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-05-07 21:53:56 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-05-07 21:53:56 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1075', '5328', 'C')
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 324
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 327
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 330
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 341
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 360
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Undefined array key "title" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 8
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Undefined array key "description" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 9
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Undefined array key "type" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 24
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Undefined array key "title" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 57
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Undefined array key "time" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 61
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Undefined array key "type" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 63
+ERROR - 2024-05-07 21:53:59 --> Severity: Warning --> Undefined array key "type" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 80
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 324
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 327
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 330
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 341
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 360
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Undefined array key "title" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 8
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Undefined array key "description" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 9
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Undefined array key "type" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 24
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Undefined array key "title" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 57
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Undefined array key "time" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 61
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Undefined array key "type" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 63
+ERROR - 2024-05-07 21:54:13 --> Severity: Warning --> Undefined array key "type" /home/n1552819/public_html/app.winayalaksa.id/app/views/user/riwayat/index.php 80

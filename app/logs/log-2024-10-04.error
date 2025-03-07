@@ -1,0 +1,449 @@
+ERROR - 2024-10-04 00:03:07 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-10-04 06:08:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 06:42:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 09:15:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 12:09:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 13:01:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 13:05:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 13:07:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 13:08:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 13:55:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 13:56:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 13:57:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 14:04:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 14:05:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 14:16:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 14:27:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 14:28:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 14:28:08 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 14:28:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 14:28:08 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 14:28:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 14:28:08 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 14:28:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 14:41:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 14:41:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 14:41:07 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1659', '8248', 'C')
+ERROR - 2024-10-04 14:42:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 14:49:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 16:12:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 16:12:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 16:12:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 16:15:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 16:15:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 16:18:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 16:29:53 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 16:29:53 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 16:29:53 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1663', '8267', 'B')
+ERROR - 2024-10-04 16:30:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 16:30:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 16:30:04 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1663', '8269', 'D')
+ERROR - 2024-10-04 16:30:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 16:30:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 16:30:09 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1664', '8272', 'B')
+ERROR - 2024-10-04 16:31:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 16:31:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 16:31:13 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1662', '8264', 'D')
+ERROR - 2024-10-04 16:32:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 16:32:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 16:32:07 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1664', '8274', 'D')
+ERROR - 2024-10-04 16:32:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 16:32:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 16:33:08 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1664', '8272', 'B')
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-10-04 16:33:08 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '1662', '8261', 'A')
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 324
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 327
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 330
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 341
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 360
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 8
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Undefined array key "description" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 9
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 24
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 57
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Undefined array key "time" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 61
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 63
+ERROR - 2024-10-04 16:33:08 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 80
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 324
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 327
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 330
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 341
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 360
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 8
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Undefined array key "description" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 9
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 24
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 57
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Undefined array key "time" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 61
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 63
+ERROR - 2024-10-04 16:33:14 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 80
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 324
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 327
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 330
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 341
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 360
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 8
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Undefined array key "description" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 9
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 24
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 57
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Undefined array key "time" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 61
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 63
+ERROR - 2024-10-04 16:33:28 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 80
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 324
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 327
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 330
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 341
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 360
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 8
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Undefined array key "description" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 9
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 24
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 57
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Undefined array key "time" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 61
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 63
+ERROR - 2024-10-04 16:33:30 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 80
+ERROR - 2024-10-04 16:33:32 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-10-04 16:33:32 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 324
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 327
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 330
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 341
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 360
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 8
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Undefined array key "description" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 9
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 24
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Undefined array key "title" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 57
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Undefined array key "time" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 61
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 63
+ERROR - 2024-10-04 16:33:33 --> Severity: Warning --> Undefined array key "type" /home/viosraha/app.winayalaksa.id/app/views/user/riwayat/index.php 80
+ERROR - 2024-10-04 16:44:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:04:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:04:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:04:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:05:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:06:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 19:06:18 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:06:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:06:18 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:06:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:06:18 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:06:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:06:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 19:06:22 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:06:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:06:22 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:06:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:06:23 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:06:23 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:06:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 19:06:46 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:06:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:06:46 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:06:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:06:46 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:06:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:06:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:06:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:07:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:07:38 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:07:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:08 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:12 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:20 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:57 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:08:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:13:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:15:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:22:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 19:27:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:27:45 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:28:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:28:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:04 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:12 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:13 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:31 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:34 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:38 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:29:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:05 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:30:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:33:41 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:23 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:34:29 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:34:36 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:34:36 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:34:37 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:35:22 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:35:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:37:17 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:37:17 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:37:46 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:38:09 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 19:39:26 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-10-04 19:39:26 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-10-04 19:39:26 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-10-04 19:39:26 --> Query error: Unknown column '%3Cdiv%20style=' in 'field list' - Invalid query: SELECT `question_detail`.*, (SELECT answer_detail.selected from answer_detail where answer_detail.answer_id = '%3Cdiv%20style=' and answer_detail.question_detail_id = question_detail.id) as checked, `%3Cdiv%20style=` as `answer_id`
+FROM `question_detail`
+WHERE `question_detail`.`question_id` IS NULL
+GROUP BY `question_detail`.`id`
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2024-10-04 19:39:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:39:45 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:39:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:40:23 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:40:23 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:41:10 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:41:10 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:11 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:41:12 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 19:42:25 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:07 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:28 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:15:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:16:10 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:16:16 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:16:18 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:18:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:21:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 20:22:00 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:23:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 20:28:30 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:28:30 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 20:28:30 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 20:30:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 20:43:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-10-04 20:44:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:35 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:05:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:06:49 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 22:06:49 --> 404 Page Not Found: Assets/js
+ERROR - 2024-10-04 22:07:08 --> 404 Page Not Found: Assets/img
+ERROR - 2024-10-04 22:26:25 --> 404 Page Not Found: Assets/vendor
+ERROR - 2024-10-04 22:26:25 --> 404 Page Not Found: Assets/css
+ERROR - 2024-10-04 22:29:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 23:25:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-10-04 23:26:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-10-04 23:26:03 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 23:26:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-10-04 23:26:03 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 23:26:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-10-04 23:26:03 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 23:26:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-10-04 23:26:20 --> 404 Page Not Found: Faviconico/index

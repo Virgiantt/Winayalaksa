@@ -1,0 +1,130 @@
+ERROR - 2024-09-06 00:39:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 07:17:08 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-09-06 07:19:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 08:24:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 09:35:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 09:35:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 09:35:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 09:36:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 09:57:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 10:01:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 10:29:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 10:33:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 10:34:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 10:52:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 11:36:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 13:17:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 13:35:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 14:21:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 14:21:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 16:05:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 16:06:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 16:06:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 16:22:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 16:24:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-06 16:24:07 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 16:24:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 16:24:07 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 16:24:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 16:24:07 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 16:24:07 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 16:24:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-06 16:24:44 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 16:24:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 16:24:44 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 16:24:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 16:24:44 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 16:24:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 16:27:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 16:51:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 17:07:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 17:23:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 18:02:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 18:39:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 18:40:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:05:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:15:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:16:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:17:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:18:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:23:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:39:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:40:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:40:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:40:19 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:40:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:40:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:41:29 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-06 19:41:29 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 19:41:29 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 19:41:29 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 19:41:29 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 19:41:29 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 19:41:29 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 19:57:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:59:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:59:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 19:59:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 20:00:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 20:00:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 20:06:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 20:18:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-06 20:18:58 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:18:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:18:58 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:18:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:18:58 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:18:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:35:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-06 20:35:14 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:35:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:35:14 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:35:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:35:14 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:35:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:35:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 278
+ERROR - 2024-09-06 20:35:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 279
+ERROR - 2024-09-06 20:35:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 291
+ERROR - 2024-09-06 20:35:18 --> Query error: Unknown column '%3Cdiv%20style=' in 'field list' - Invalid query: SELECT `question_detail`.*, (SELECT answer_detail.selected from answer_detail where answer_detail.answer_id = '%3Cdiv%20style=' and answer_detail.question_detail_id = question_detail.id) as checked, `%3Cdiv%20style=` as `answer_id`
+FROM `question_detail`
+WHERE `question_detail`.`question_id` IS NULL
+GROUP BY `question_detail`.`id`
+ORDER BY `question_detail`.`id` ASC
+ERROR - 2024-09-06 20:35:31 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-06 20:35:31 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:35:31 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:35:31 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:35:31 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:35:31 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:35:31 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:36:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-06 20:36:22 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:36:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-06 20:36:22 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:36:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-06 20:36:22 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:36:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-06 20:43:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-06 20:45:32 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-06 20:45:32 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-06 20:45:32 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-06 20:45:37 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-06 20:45:37 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-06 20:45:37 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-06 20:45:46 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-06 20:45:46 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-06 20:45:46 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-06 20:45:46 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-06 20:45:46 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-06 20:45:46 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-06 20:45:47 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-06 20:45:47 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-06 20:45:47 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-06 23:20:48 --> 404 Page Not Found: Faviconico/index

@@ -1,0 +1,772 @@
+ERROR - 2023-09-18 15:27:08 --> Severity: 8192 --> Creation of dynamic property CI_URI::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\URI.php 101
+ERROR - 2023-09-18 15:27:09 --> Severity: 8192 --> Creation of dynamic property CI_Router::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Router.php 127
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:11 --> Severity: 8192 --> Creation of dynamic property Login::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 78
+ERROR - 2023-09-18 15:27:13 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2023-09-18 15:27:13 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 292
+ERROR - 2023-09-18 15:27:13 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 166
+ERROR - 2023-09-18 15:27:14 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 235
+ERROR - 2023-09-18 15:27:14 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 315
+ERROR - 2023-09-18 15:27:14 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 356
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 282
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 289
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 304
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 314
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 315
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 316
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 317
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 375
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> session_set_save_handler(): Session save handler cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 110
+ERROR - 2023-09-18 15:27:14 --> Severity: Warning --> session_start(): Session cannot be started after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 143
+ERROR - 2023-09-18 15:27:14 --> Severity: 8192 --> Creation of dynamic property Login::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:14 --> Severity: 8192 --> Creation of dynamic property Login::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 396
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_DB_mysqli_driver::$failover is deprecated D:\www\creativeplay\lms_winayalaksa\lib\database\DB_driver.php 371
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property Login::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:15 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_URI::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\URI.php 101
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Router::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Router.php 127
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 78
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 292
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 166
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 235
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 315
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 356
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 282
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 289
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 304
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 314
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 315
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 316
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 317
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 375
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> session_set_save_handler(): Session save handler cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 110
+ERROR - 2023-09-18 15:27:45 --> Severity: Warning --> session_start(): Session cannot be started after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 143
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 396
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_DB_mysqli_driver::$failover is deprecated D:\www\creativeplay\lms_winayalaksa\lib\database\DB_driver.php 371
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property Login::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:45 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_URI::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\URI.php 101
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Router::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Router.php 127
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 78
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 292
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 166
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 235
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 315
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 356
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 282
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 289
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 304
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 314
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 315
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 316
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 317
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 375
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> session_set_save_handler(): Session save handler cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 110
+ERROR - 2023-09-18 15:27:50 --> Severity: Warning --> session_start(): Session cannot be started after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 143
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 396
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_DB_mysqli_driver::$failover is deprecated D:\www\creativeplay\lms_winayalaksa\lib\database\DB_driver.php 371
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property Login::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:50 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_URI::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\URI.php 101
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Router::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Router.php 127
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 75
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Controller.php 78
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Return type of CI_Session_files_driver::open($save_path, $name) should either be compatible with SessionHandlerInterface::open(string $path, string $name): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 132
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Return type of CI_Session_files_driver::close() should either be compatible with SessionHandlerInterface::close(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 292
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Return type of CI_Session_files_driver::read($session_id) should either be compatible with SessionHandlerInterface::read(string $id): string|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 166
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Return type of CI_Session_files_driver::write($session_id, $session_data) should either be compatible with SessionHandlerInterface::write(string $id, string $data): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 235
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Return type of CI_Session_files_driver::destroy($session_id) should either be compatible with SessionHandlerInterface::destroy(string $id): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 315
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Return type of CI_Session_files_driver::gc($maxlifetime) should either be compatible with SessionHandlerInterface::gc(int $max_lifetime): int|false, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\drivers\Session_files_driver.php 356
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 282
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> session_set_cookie_params(): Session cookie parameters cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 289
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 304
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 314
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 315
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 316
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 317
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> ini_set(): Session ini settings cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 375
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> session_set_save_handler(): Session save handler cannot be changed after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 110
+ERROR - 2023-09-18 15:27:55 --> Severity: Warning --> session_start(): Session cannot be started after headers have already been sent D:\www\creativeplay\lms_winayalaksa\lib\libraries\Session\Session.php 143
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 396
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_DB_mysqli_driver::$failover is deprecated D:\www\creativeplay\lms_winayalaksa\lib\database\DB_driver.php 371
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property Login::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 1283
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$benchmark is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$hooks is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$config is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$log is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$utf8 is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$uri is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$exceptions is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$router is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$output is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$security is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$input is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$lang is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$load is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$session is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$db is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:27:55 --> Severity: 8192 --> Creation of dynamic property CI_Loader::$form_validation is deprecated D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 931
+ERROR - 2023-09-18 15:28:33 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:28:33 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:28:33 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:28:33 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:28:33 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:28:33 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 69
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 70
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 71
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:00 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 75
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 194
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 197
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 200
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_twk" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 251
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tiu" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 254
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "pg_tkp" D:\www\creativeplay\lms_winayalaksa\app\controllers\User.php 257
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 69
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 70
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 71
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:37:25 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 75
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "count_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 42
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "kelulusan" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 43
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 39
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 40
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 41
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 45
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "type" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 69
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "title" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 70
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "created_at" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 71
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:40:06 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 75
+ERROR - 2023-09-18 15:41:49 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:41:49 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:41:49 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:41:49 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 15:41:49 --> Severity: Warning --> Undefined array key "total_point" D:\www\creativeplay\lms_winayalaksa\app\views\user\hasil\index.php 72
+ERROR - 2023-09-18 16:28:16 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 16:28:16 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:04 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:04 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:15 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:15 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:20 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:20 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:30 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:30 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:39 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:39 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:41 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:41 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:47 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:47 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:52 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:53 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:13:54 --> 404 Page Not Found: api/Bidang/index
+ERROR - 2023-09-18 17:13:54 --> Severity: error --> Exception: Unable to locate the model you have specified: AsetLainnya_model D:\www\creativeplay\lms_winayalaksa\lib\core\Loader.php 348
+ERROR - 2023-09-18 17:14:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:14:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:14:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:14:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:14:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:14:43 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:14:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:14:59 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:18:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:18:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:23:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:23:30 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:23:46 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:23:46 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:23:51 --> 404 Page Not Found: Admin/detail_statistik
+ERROR - 2023-09-18 17:23:53 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:23:53 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:23:56 --> 404 Page Not Found: Admin/detail_statistik
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 38
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 49
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 49
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 52
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 52
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 52
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 59
+ERROR - 2023-09-18 17:32:11 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 59
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 40
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:34:09 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 40
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 43
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 46
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:36:02 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 40
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 43
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 46
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:05 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 40
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 43
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 46
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:37 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 40
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 43
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 46
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\views\admin\statistik\index.php 23
+ERROR - 2023-09-18 17:37:56 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\admin\statistik\index.php 23
+ERROR - 2023-09-18 17:37:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:37:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 40
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 43
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 46
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 51
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 54
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:38:03 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 57
+ERROR - 2023-09-18 17:38:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:38:04 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 58
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 58
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 58
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 58
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 55
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 58
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 58
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Trying to access array offset on value of type null D:\www\creativeplay\lms_winayalaksa\app\controllers\Admin.php 61
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\views\admin\statistik\index.php 23
+ERROR - 2023-09-18 17:38:35 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\admin\statistik\index.php 23
+ERROR - 2023-09-18 17:38:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:38:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:38:56 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\views\admin\statistik\index.php 23
+ERROR - 2023-09-18 17:38:56 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\admin\statistik\index.php 23
+ERROR - 2023-09-18 17:38:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 17:38:57 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 19:15:13 --> Severity: Warning --> Undefined variable $question D:\www\creativeplay\lms_winayalaksa\app\views\admin\detail_statistik\index.php 23
+ERROR - 2023-09-18 19:15:13 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\admin\detail_statistik\index.php 23
+ERROR - 2023-09-18 19:31:45 --> Severity: Warning --> Undefined variable $answer D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:31:45 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:04 --> Severity: Warning --> Undefined variable $answer D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:04 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:13 --> Severity: Warning --> Undefined variable $answer D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 69
+ERROR - 2023-09-18 19:32:13 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 69
+ERROR - 2023-09-18 19:32:16 --> Severity: Warning --> Undefined variable $answer D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:16 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:30 --> Severity: Warning --> Undefined variable $answer D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:30 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:31 --> Severity: Warning --> Undefined variable $answer D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:31 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:41 --> Severity: Warning --> Undefined variable $answer D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:32:41 --> Severity: Warning --> foreach() argument must be of type array|object, null given D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 68
+ERROR - 2023-09-18 19:34:05 --> Query error: Column 'id' in where clause is ambiguous - Invalid query: SELECT `question`.`pg_twk`, `question`.`pg_tiu`, `question`.`pg_tkp`, `answer`.`id` as `answer_id`, `answer`.`user_id`, `user`.*
+FROM `answer`
+LEFT JOIN `question` ON `question`.`id` = `answer`.`question_id`
+LEFT JOIN `user` ON `user`.`id` = `answer`.`user_id`
+WHERE `id` = '5'
+GROUP BY `user_id`
+ORDER BY `answer`.`id` DESC
+ERROR - 2023-09-18 21:18:43 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 33
+ERROR - 2023-09-18 21:18:43 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 34
+ERROR - 2023-09-18 21:18:43 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\views\user\riwayat\index.php 35
+ERROR - 2023-09-18 22:03:26 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:03:26 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:03:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:03:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:04:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:04:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 51
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 67
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 51
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 67
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 51
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 67
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 51
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 67
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined array key "answer_id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 51
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 67
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:05 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:04:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_twk D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 57
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tiu D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 68
+ERROR - 2023-09-18 22:04:24 --> Severity: Warning --> Undefined variable $count_point_tkp D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 69
+ERROR - 2023-09-18 22:04:50 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:04:50 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:05:07 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:05:07 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:05:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:05:42 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:05:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:05:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:21 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:21 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:29 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:06:55 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:07:53 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:07:53 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:07:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:07:54 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:07:55 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:55 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:55 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:55 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:55 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:07:56 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:07:56 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:56 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:56 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:56 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:07:56 --> Severity: Warning --> Undefined array key "point" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 60
+ERROR - 2023-09-18 22:08:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:08:16 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:09:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:09:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:09:35 --> Severity: Warning --> Undefined array key "question_id" D:\www\creativeplay\lms_winayalaksa\app\models\Api\Question_model.php 54
+ERROR - 2023-09-18 22:09:35 --> Query error: Unknown column 'question_detail.choice_id' in 'on clause' - Invalid query: SELECT `choice`.`point`
+FROM `question`
+LEFT JOIN `question_detail` ON `question_detail`.`question_id` = `question`.`id`
+LEFT JOIN `choice` ON `choice`.`id` = `question_detail`.`choice_id`
+WHERE `question`.`id` IS NULL
+ERROR - 2023-09-18 22:09:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:09:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:09:44 --> Query error: Unknown column 'question_detail.choice_id' in 'on clause' - Invalid query: SELECT `choice`.`point`
+FROM `question`
+LEFT JOIN `question_detail` ON `question_detail`.`question_id` = `question`.`id`
+LEFT JOIN `choice` ON `choice`.`id` = `question_detail`.`choice_id`
+WHERE `question`.`id` = '15'
+ERROR - 2023-09-18 22:12:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:12:34 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:12:34 --> Query error: Unknown column 'choice.question_detail.id' in 'on clause' - Invalid query: SELECT `choice`.`point`
+FROM `question`
+LEFT JOIN `question_detail` ON `question_detail`.`question_id` = `question`.`id`
+LEFT JOIN `choice` ON `choice`.`question_detail`.`id` = `question_detail`.`id`
+WHERE `question`.`id` = '15'
+ERROR - 2023-09-18 22:12:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:12:41 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:13:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:13:05 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:13:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:13:24 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:13:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:13:27 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:15:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:15:06 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:15:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:15:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:15:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:16:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:16:15 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:16:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:16:19 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:17:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:17:20 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:17:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:17:25 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:19:26 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:19:26 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:19:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:19:44 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:28:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:28:47 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:28:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:28:49 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:29:36 --> 404 Page Not Found: Assets/js
+ERROR - 2023-09-18 22:29:36 --> 404 Page Not Found: Assets/js

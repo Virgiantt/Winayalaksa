@@ -1,0 +1,60 @@
+ERROR - 2024-06-29 01:04:16 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:16 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:16 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:16 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:33 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:33 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:33 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:34 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:49 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:49 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:50 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:04:50 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:05:05 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:05:05 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:05:05 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 01:05:05 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 06:26:51 --> 404 Page Not Found: Apple_touch_iconpng/index
+ERROR - 2024-06-29 06:26:51 --> 404 Page Not Found: Apple_touch_icon_precomposedpng/index
+ERROR - 2024-06-29 06:28:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-06-29 06:28:25 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-29 06:28:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-29 06:28:25 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-29 06:28:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-29 06:28:25 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-06-29 06:28:25 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-06-29 06:36:49 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-06-29 06:36:49 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-29 06:36:49 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-29 06:36:49 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-29 06:36:49 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-29 06:36:49 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-06-29 06:36:49 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-06-29 06:48:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-06-29 06:48:03 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-29 06:48:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-29 06:48:03 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-29 06:48:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-29 06:48:03 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-06-29 06:48:03 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-06-29 08:44:34 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:44:34 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:44:34 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:44:35 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:44:52 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:44:52 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:44:52 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:44:53 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:14 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:14 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:14 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:14 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:31 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:31 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:31 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:31 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:49 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:49 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:49 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 08:45:50 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-29 13:11:02 --> 404 Page Not Found: Robotstxt/index

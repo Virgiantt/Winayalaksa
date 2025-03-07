@@ -1,0 +1,311 @@
+ERROR - 2024-09-07 00:19:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 06:47:47 --> 404 Page Not Found: Well_known/assetlinks.json
+ERROR - 2024-09-07 07:48:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:13:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:36 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:42 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:15:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:16:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:18:49 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 09:19:58 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 09:19:58 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 09:19:58 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 09:20:09 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 09:20:09 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 09:20:09 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 09:20:24 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 09:20:24 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 09:20:24 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 09:20:33 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 09:20:33 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 09:20:33 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 09:20:33 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 09:20:33 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 09:20:33 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 09:43:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:46:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:47:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:48:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:49:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:52:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:54:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 09:54:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:01:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:01:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:02:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:03:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:06:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:06:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:07:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:07:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:09:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:10:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:10:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:17:48 --> 404 Page Not Found: Assets/vendor
+ERROR - 2024-09-07 10:17:48 --> 404 Page Not Found: Assets/css
+ERROR - 2024-09-07 10:29:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:35:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:36:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:36:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:46:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 10:55:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 11:07:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 11:11:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 11:28:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 11:29:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 11:42:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 11:42:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:16:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:17:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 12:18:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:54 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:56 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:58 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:59 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:18:59 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:00 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:00 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:00 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:00 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:01 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:01 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:02 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:06 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:07 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:08 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:08 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:10 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:13 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:17 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:21 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:19:46 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:20:44 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:22:42 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:22:51 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:22:57 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:23:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:23:14 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:23:18 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:23:24 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:23:28 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:23:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-07 12:55:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 13:18:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 13:18:13 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 13:18:13 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 13:18:13 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 13:18:16 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 13:18:16 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 13:18:16 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 13:18:19 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 13:18:19 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 13:18:19 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 13:18:23 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 13:18:23 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 13:18:23 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 13:18:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 14:02:18 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:02:18 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:02:18 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:02:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 14:02:55 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:02:55 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:02:55 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:02:57 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:02:57 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:02:57 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:08 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:09 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:14 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:14 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:14 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:23 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:23 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:23 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 14:03:24 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 14:04:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 14:11:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 15:35:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-09-07 15:35:43 --> 404 Page Not Found: Sitemapsxml/index
+ERROR - 2024-09-07 15:41:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-09-07 17:42:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 17:42:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 17:52:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:15:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:15:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:16:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:16:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:16:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:16:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:16:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:16:55 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:16:55 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:16:55 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:00 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:17:05 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:05 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:05 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 19:17:28 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 19:17:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:18:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:18:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-07 19:18:46 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-07 19:18:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-07 19:18:46 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-07 19:18:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-07 19:18:46 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-07 19:18:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-07 19:23:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:28:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:34:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:37:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:38:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:38:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:40:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 19:46:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:30:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:30:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:30:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:30:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:30:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:30:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:54:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:54:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 20:55:04 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 20:55:04 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 20:55:04 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 20:55:07 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 20:55:07 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 20:55:07 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 20:55:09 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-07 20:55:09 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-07 20:55:09 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-07 21:07:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-07 21:27:17 --> 404 Page Not Found: Faviconico/index

@@ -1,0 +1,168 @@
+ERROR - 2023-07-19 10:04:29 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:04:29 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:06:11 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:06:11 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:06:55 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:06:55 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:07:20 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:07:20 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:07:42 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:07:42 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:08:21 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:08:21 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:09:11 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:09:11 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:09:44 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:09:44 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:10:31 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:10:31 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:11:10 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:11:10 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:14:20 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:14:20 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:15:50 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:15:50 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:27:06 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:27:06 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:33:41 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:33:41 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:34:15 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:34:15 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:35:00 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:35:00 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:35:31 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:35:31 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:35:59 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:35:59 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:39:49 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:39:49 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:40:11 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:40:11 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:40:42 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:40:42 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:44:04 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:44:04 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:44:36 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:44:36 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:44:55 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:44:55 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 10:46:37 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 10:46:37 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 11:35:14 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 11:35:14 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 11:35:58 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 11:35:58 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 11:36:13 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 11:36:13 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 11:36:29 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 11:36:29 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/frame_12.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrspec.php 568
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_0\mask_65_0.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_1\mask_65_1.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_2\mask_65_2.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_3\mask_65_3.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_4\mask_65_4.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_5\mask_65_5.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_6\mask_65_6.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:15:10 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_7\mask_65_7.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:28:33 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 12:28:33 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> Undefined array key "jumlah" C:\xampp\htdocs\pendataan_diskom_batola\app\models\Api\AsetTanah_model.php 47
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/frame_13.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrspec.php 568
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_0\mask_69_0.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_1\mask_69_1.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_2\mask_69_2.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_3\mask_69_3.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_4\mask_69_4.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_5\mask_69_5.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_6\mask_69_6.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:15 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_7\mask_69_7.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> Undefined array key "jumlah" C:\xampp\htdocs\pendataan_diskom_batola\app\models\Api\AsetTanah_model.php 47
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/frame_13.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrspec.php 568
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_0\mask_69_0.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_1\mask_69_1.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_2\mask_69_2.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_3\mask_69_3.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_4\mask_69_4.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_5\mask_69_5.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_6\mask_69_6.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:20 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_7\mask_69_7.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/frame_13.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrspec.php 568
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_0\mask_69_0.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_1\mask_69_1.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_2\mask_69_2.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_3\mask_69_3.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:38 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_4\mask_69_4.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:39 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:39 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_5\mask_69_5.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:39 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:39 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_6\mask_69_6.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:29:39 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:29:39 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_7\mask_69_7.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:36:57 --> 404 Page Not Found: api/Category/index
+ERROR - 2023-07-19 12:36:57 --> 404 Page Not Found: api/Product/index
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> Undefined array key "jumlah" C:\xampp\htdocs\pendataan_diskom_batola\app\models\Api\AsetTanah_model.php 47
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/frame_13.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrspec.php 568
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_0\mask_69_0.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_1\mask_69_1.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_2\mask_69_2.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_3\mask_69_3.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_4\mask_69_4.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_5\mask_69_5.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_6\mask_69_6.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:41 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_7\mask_69_7.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:54 --> Severity: Warning --> Undefined array key "jumlah" C:\xampp\htdocs\pendataan_diskom_batola\app\models\Api\AsetTanah_model.php 47
+ERROR - 2023-07-19 12:37:54 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/frame_13.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrspec.php 568
+ERROR - 2023-07-19 12:37:54 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:54 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_0\mask_69_0.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:54 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:54 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_1\mask_69_1.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_2\mask_69_2.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_3\mask_69_3.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_4\mask_69_4.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_5\mask_69_5.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_6\mask_69_6.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> mkdir(): No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 154
+ERROR - 2023-07-19 12:37:55 --> Severity: Warning --> file_put_contents(C:\xampp\htdocs\pendataan_diskom_batola\app/cache/mask_7\mask_69_7.dat): Failed to open stream: No such file or directory C:\xampp\htdocs\pendataan_diskom_batola\app\libraries\qrcode\qrmask.php 155

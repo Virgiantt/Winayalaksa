@@ -1,0 +1,24 @@
+ERROR - 2024-06-25 06:35:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2024-06-25 16:17:59 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:00 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:00 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:00 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:13 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:13 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:13 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:13 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:26 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:26 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:26 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:26 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:41 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:41 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:41 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 16:18:41 --> 404 Page Not Found: Appwinayalaksaid/assets
+ERROR - 2024-06-25 20:53:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-06-25 20:53:06 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-25 20:53:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-06-25 20:53:06 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-25 20:53:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-06-25 20:53:06 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-06-25 20:53:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13

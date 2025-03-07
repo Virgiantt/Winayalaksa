@@ -1,0 +1,17 @@
+[03-Sep-2024 01:35:13 Asia/Jakarta] PHP Warning:  require_once(/home/viosraha/app.viosrahayusejahtera.com/app/config/vendor/autoload.php): Failed to open stream: No such file or directory in /home/viosraha/app.viosrahayusejahtera.com/app/config/config.php on line 5
+[03-Sep-2024 01:35:13 Asia/Jakarta] PHP Warning:  require_once(/home/viosraha/app.viosrahayusejahtera.com/app/config/vendor/autoload.php): Failed to open stream: No such file or directory in /home/viosraha/app.viosrahayusejahtera.com/app/config/config.php on line 5
+[03-Sep-2024 01:35:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required '/home/viosraha/app.viosrahayusejahtera.com/app/config/vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/viosraha/app.viosrahayusejahtera.com/app/config/config.php:5
+Stack trace:
+#0 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(249): require()
+#1 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(300): get_config()
+#2 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(171): config_item()
+#3 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(617): load_class()
+#4 /home/viosraha/app.viosrahayusejahtera.com/app/config/config.php(5): _error_handler()
+#5 /home/viosraha/app.viosrahayusejahtera.com/app/config/config.php(5): require_once()
+#6 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(249): require('/home/viosraha/...')
+#7 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(300): get_config()
+#8 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(171): config_item()
+#9 /home/viosraha/app.viosrahayusejahtera.com/lib/core/Common.php(652): load_class()
+#10 [internal function]: _exception_handler()
+#11 {main}
+  thrown in /home/viosraha/app.viosrahayusejahtera.com/app/config/config.php on line 5

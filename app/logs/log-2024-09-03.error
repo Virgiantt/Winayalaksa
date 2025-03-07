@@ -1,0 +1,250 @@
+ERROR - 2024-09-03 01:06:21 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-03 01:06:21 --> Unable to connect to the database
+ERROR - 2024-09-03 01:10:22 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-03 01:10:22 --> Unable to connect to the database
+ERROR - 2024-09-03 01:11:33 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-03 01:11:33 --> Unable to connect to the database
+ERROR - 2024-09-03 01:13:29 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-03 01:13:29 --> Unable to connect to the database
+ERROR - 2024-09-03 01:14:57 --> Severity: Warning --> mysqli::real_connect(): (HY000/1045): Access denied for user 'n1552819_lms'@'localhost' (using password: YES) /home/viosraha/app.viosrahayusejahtera.com/lib/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2024-09-03 01:14:57 --> Unable to connect to the database
+ERROR - 2024-09-03 01:45:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 01:45:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-09-03 01:45:52 --> 404 Page Not Found: Assets/js
+ERROR - 2024-09-03 03:02:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 11:00:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 12:38:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 15:56:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:01:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:01:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:02:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:02:57 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 16:03:03 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 16:03:07 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 16:03:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:03:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:03:20 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '570', '2801', 'A')
+ERROR - 2024-09-03 16:03:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:03:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:03:24 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '570', '2802', 'B')
+ERROR - 2024-09-03 16:03:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 16:03:31 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 16:03:40 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 16:03:43 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 16:03:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:03:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:03:58 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '571', '2809', 'D')
+ERROR - 2024-09-03 16:04:19 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:04:19 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:04:19 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '572', '2812', 'B')
+ERROR - 2024-09-03 16:04:37 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:04:37 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:04:37 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '573', '2818', 'C')
+ERROR - 2024-09-03 16:05:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:05:13 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:05:13 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '574', '2821', 'A')
+ERROR - 2024-09-03 16:05:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:05:43 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:05:43 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:05:43 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '575', '2830', 'E')
+ERROR - 2024-09-03 16:06:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:06:08 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:06:08 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '576', '2833', 'C')
+ERROR - 2024-09-03 16:06:38 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:06:38 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:06:38 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '577', '2836', 'A')
+ERROR - 2024-09-03 16:07:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:07:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:07:20 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:07:20 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '578', '2844', 'D')
+ERROR - 2024-09-03 16:07:48 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:07:48 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:07:48 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '579', '2849', 'D')
+ERROR - 2024-09-03 16:08:12 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:08:12 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:08:12 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '580', '2855', 'E')
+ERROR - 2024-09-03 16:08:43 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:08:43 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:08:43 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '581', '2856', 'A')
+ERROR - 2024-09-03 16:09:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:09:24 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:09:24 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '582', '2864', 'D')
+ERROR - 2024-09-03 16:09:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:09:51 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:09:51 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '583', '2869', 'D')
+ERROR - 2024-09-03 16:10:31 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:10:31 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:10:31 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '584', '2871', 'A')
+ERROR - 2024-09-03 16:11:02 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:11:02 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:11:02 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '585', '2876', 'A')
+ERROR - 2024-09-03 16:11:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:11:33 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:11:33 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '586', '2882', 'B')
+ERROR - 2024-09-03 16:11:36 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:11:36 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:11:36 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '586', '2884', 'D')
+ERROR - 2024-09-03 16:12:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:12:06 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:12:06 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '587', '2886', 'A')
+ERROR - 2024-09-03 16:12:36 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:12:36 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:12:36 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '588', '2891', 'A')
+ERROR - 2024-09-03 16:12:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:12:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:12:58 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '589', '2898', 'C')
+ERROR - 2024-09-03 16:13:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:13:22 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:13:22 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '590', '2903', 'C')
+ERROR - 2024-09-03 16:13:42 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:13:42 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:13:42 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '591', '2908', 'C')
+ERROR - 2024-09-03 16:13:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:13:58 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:13:58 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '592', '2912', 'B')
+ERROR - 2024-09-03 16:14:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:14:18 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:14:18 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '593', '2917', 'B')
+ERROR - 2024-09-03 16:14:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:14:44 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:14:44 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '594', '2921', 'A')
+ERROR - 2024-09-03 16:15:19 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:15:19 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:15:19 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '595', '2928', 'C')
+ERROR - 2024-09-03 16:15:38 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:15:38 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:15:38 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '596', '2933', 'C')
+ERROR - 2024-09-03 16:16:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:16:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:16:14 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '597', '2938', 'C')
+ERROR - 2024-09-03 16:16:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:16:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:16:17 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '597', '2940', 'E')
+ERROR - 2024-09-03 16:16:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:16:46 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:16:46 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '598', '2945', 'E')
+ERROR - 2024-09-03 16:17:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:17:14 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:17:14 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '599', '2946', 'A')
+ERROR - 2024-09-03 16:17:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:17:37 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:17:37 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:17:37 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '600', '2952', 'B')
+ERROR - 2024-09-03 16:18:01 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:18:01 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:18:01 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '671', '3307', 'B')
+ERROR - 2024-09-03 16:18:52 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:18:52 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:18:52 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '672', '3312', 'B')
+ERROR - 2024-09-03 16:19:09 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:19:09 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:19:09 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '673', '3320', 'E')
+ERROR - 2024-09-03 16:19:45 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:19:45 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:19:45 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '674', '3323', 'C')
+ERROR - 2024-09-03 16:20:09 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:20:09 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:20:09 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '675', '3329', 'D')
+ERROR - 2024-09-03 16:20:16 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 48
+ERROR - 2024-09-03 16:20:16 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/models/Api/Answer_model.php 59
+ERROR - 2024-09-03 16:20:16 --> Query error: Column 'answer_id' cannot be null - Invalid query: INSERT INTO `answer_detail` (`answer_id`, `question_detail_id`, `choice_id`, `selected`) VALUES (NULL, '675', '3326', 'A')
+ERROR - 2024-09-03 16:29:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:29:55 --> Query error: Table 'viosraha_app.user' doesn't exist - Invalid query: SELECT *
+FROM `user`
+WHERE `token` = '$2y$10$6LRSQC.pmCe2NOleXI3LFuV4gHMR5AT9M3FrXbb49GXwt4PhoFmlC.h4R1$2y$10$egD24uKn4atGqi1eNXZtQu.d9vUKh0Ht9K14Ij8e/jFOHlblQ/W7a'
+ERROR - 2024-09-03 16:29:57 --> Query error: Table 'viosraha_app.user' doesn't exist - Invalid query: SELECT *
+FROM `user`
+WHERE `token` = '$2y$10$6LRSQC.pmCe2NOleXI3LFuV4gHMR5AT9M3FrXbb49GXwt4PhoFmlC.h4R1$2y$10$egD24uKn4atGqi1eNXZtQu.d9vUKh0Ht9K14Ij8e/jFOHlblQ/W7a'
+ERROR - 2024-09-03 16:30:01 --> Query error: Table 'viosraha_app.user' doesn't exist - Invalid query: SELECT *
+FROM `user`
+WHERE `token` = '$2y$10$6LRSQC.pmCe2NOleXI3LFuV4gHMR5AT9M3FrXbb49GXwt4PhoFmlC.h4R1$2y$10$egD24uKn4atGqi1eNXZtQu.d9vUKh0Ht9K14Ij8e/jFOHlblQ/W7a'
+ERROR - 2024-09-03 16:31:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:38:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:38:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:38:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:38:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:48:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:49:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:49:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:52:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:52:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:55:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:55:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:55:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 16:55:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 17:15:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:10 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:17 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:18 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:19 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:19 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:19 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:19 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:19 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:19 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:20 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:16:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:17:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 17:17:48 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:17:56 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:18:07 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:18:19 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 17:25:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 17:53:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 18:00:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 18:00:14 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 18:11:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 18:11:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 18:39:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 18:59:28 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 19:12:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 19:13:39 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:39 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:39 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 19:13:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 19:13:42 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:42 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:42 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 19:13:43 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:43 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:43 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 19:13:44 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:44 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:44 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 19:13:46 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:46 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:46 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 19:13:52 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:52 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:52 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 19:13:54 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:54 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:54 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 19:13:54 --> Severity: Warning --> Undefined array key "pg_twk" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 111
+ERROR - 2024-09-03 19:13:54 --> Severity: Warning --> Undefined array key "pg_tiu" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 112
+ERROR - 2024-09-03 19:13:54 --> Severity: Warning --> Undefined array key "pg_tkp" /home/viosraha/app.winayalaksa.id/app/models/Api/Question_model.php 113
+ERROR - 2024-09-03 20:05:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-03 20:05:04 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-03 20:05:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-03 20:05:04 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-03 20:05:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-03 20:05:04 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-03 20:05:04 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-03 20:05:05 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/controllers/User.php 155
+ERROR - 2024-09-03 20:05:05 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-03 20:05:05 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
+ERROR - 2024-09-03 20:05:05 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-03 20:05:05 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
+ERROR - 2024-09-03 20:05:05 --> Severity: Warning --> Undefined array key 0 /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-03 20:05:05 --> Severity: Warning --> Trying to access array offset on value of type null /home/viosraha/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
+ERROR - 2024-09-03 20:05:17 --> 404 Page Not Found: Assets/img
+ERROR - 2024-09-03 20:44:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 20:44:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 20:50:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 20:54:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 20:54:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 21:31:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 21:41:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 21:51:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 22:22:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2024-09-03 22:44:22 --> 404 Page Not Found: Faviconico/index
