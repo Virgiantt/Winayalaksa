@@ -77,10 +77,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => "localhost",
-	'username' => "viosraha_wp162",
-	'password' => "!1]8STvRp8",
-	'database' => "viosraha_app",
+	'hostname' => "wina.jualanwebsite.com",
+	'username' => "jual6357_wina",
+	'password' => "Winalayaksa100%",
+	'database' => "jual6357_winanew",
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
