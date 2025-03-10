@@ -1,5 +1,0 @@
-ERROR - 2024-05-23 01:34:13 --> 404 Page Not Found: Robotstxt/index
-ERROR - 2024-05-23 12:14:49 --> 404 Page Not Found: Robotstxt/index
-ERROR - 2024-05-23 12:20:45 --> Severity: Warning --> Undefined array key "pg_twk" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 111
-ERROR - 2024-05-23 12:20:45 --> Severity: Warning --> Undefined array key "pg_tiu" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 112
-ERROR - 2024-05-23 12:20:45 --> Severity: Warning --> Undefined array key "pg_tkp" /home/n1552819/public_html/app.winayalaksa.id/app/models/Api/Question_model.php 113
