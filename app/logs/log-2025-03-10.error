@@ -1,0 +1,28 @@
+ERROR - 2025-03-10 10:22:42 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:22:55 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:23:48 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:24:01 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:24:28 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:24:31 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:24:31 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:24:32 --> Could not find the specified $config['composer_autoload'] path: ./vendor/autoload.php
+ERROR - 2025-03-10 10:24:32 --> Severity: Warning --> require(C:\xampp\htdocs\Winayalaksa\/vendor/autoload.php): Failed to open stream: No such file or directory C:\xampp\htdocs\Winayalaksa\app\controllers\Admin.php 3
+ERROR - 2025-03-10 10:24:32 --> Severity: error --> Exception: Failed opening required 'C:\xampp\htdocs\Winayalaksa\/vendor/autoload.php' (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\Winayalaksa\app\controllers\Admin.php 3
+ERROR - 2025-03-10 11:41:06 --> 404 Page Not Found: Main_page/index
+ERROR - 2025-03-10 11:41:16 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\Winayalaksa\app\models\Api\Question_model.php 19
+ERROR - 2025-03-10 11:41:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')
+                    group by question.id 
+                    order by qu...' at line 6 - Invalid query: 
+                    SELECT question.*,answer.id as answer_id, (select count(question_detail.id) FROM question_detail where question_detail.question_id = question.id) as count_question 
+                    FROM question 
+                    LEFT JOIN answer ON answer.question_id = question.id 
+                    where question.type = 'exam' 
+                    and question.status = '1'
+                    and question.id in()
+                    group by question.id 
+                    order by question.id desc
+                
+ERROR - 2025-03-10 13:28:26 --> Query error: No tables used - Invalid query: SELECT *
+ERROR - 2025-03-10 13:34:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '*' at line 2 - Invalid query: SELECT *
+FROM *
+ERROR - 2025-03-10 13:47:55 --> 404 Page Not Found: Pusat/main

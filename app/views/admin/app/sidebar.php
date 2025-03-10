@@ -16,6 +16,11 @@
         <hr class="sidebar-divider my-0">
 
         <!-- Nav Item - Dashboard -->
+        <li class="nav-item">
+            <a class="nav-link" href="<?= base_url("main_page") ?>">
+                <i class="fas fa-fw fa-arrow-left"></i>
+                <span>Main Page</span></a>
+        </li>
         <li class="nav-item <?= $this->uri->segment(1) == "admin" && ($this->uri->segment(2) == "dashboard" || $this->uri->segment(2) == "statistik" || $this->uri->segment(2) == "detail_statistik") ? "active bg-orange" : "" ?>">
             <a class="nav-link" href="<?= base_url("admin/dashboard") ?>">
                 <i class="fas fa-fw fa-book"></i>
