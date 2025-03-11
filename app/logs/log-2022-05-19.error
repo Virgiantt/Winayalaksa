@@ -1,5 +1,0 @@
-ERROR - 2022-05-19 19:22:45 --> Severity: error --> Exception: Call to undefined function MONTH() C:\laragon\www\infly-new\app\models\Api\Client_model.php 42
-ERROR - 2022-05-19 19:55:23 --> 404 Page Not Found: api/Client/chartClientTermination
-ERROR - 2022-05-19 19:55:32 --> 404 Page Not Found: api/Client/chartClientTermination
-ERROR - 2022-05-19 19:56:33 --> 404 Page Not Found: api/Client/chartClientTermination
-ERROR - 2022-05-19 20:26:18 --> 404 Page Not Found: Robotstxt/index

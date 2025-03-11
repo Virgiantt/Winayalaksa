@@ -1,2 +1,0 @@
-ERROR - 2022-05-21 23:33:19 --> Severity: Compile Error --> Cannot use [] for reading C:\laragon\www\infly-new\app\views\auth\login.php 50
-ERROR - 2022-05-21 23:45:54 --> Severity: error --> Exception: syntax error, unexpected '}' C:\laragon\www\infly-new\app\controllers\Logout.php 12

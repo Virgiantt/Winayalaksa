@@ -1,8 +1,0 @@
-ERROR - 2024-06-11 11:44:02 --> 404 Page Not Found: Robotstxt/index
-ERROR - 2024-06-11 20:13:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/controllers/User.php 155
-ERROR - 2024-06-11 20:13:17 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
-ERROR - 2024-06-11 20:13:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 6
-ERROR - 2024-06-11 20:13:17 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
-ERROR - 2024-06-11 20:13:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 7
-ERROR - 2024-06-11 20:13:17 --> Severity: Warning --> Undefined array key 0 /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
-ERROR - 2024-06-11 20:13:17 --> Severity: Warning --> Trying to access array offset on value of type null /home/n1552819/public_html/app.winayalaksa.id/app/views/user/do_latihan/index.php 13
