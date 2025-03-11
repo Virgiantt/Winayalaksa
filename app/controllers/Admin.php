@@ -489,4 +489,31 @@ class Admin extends MY_Controller{
 		$this->load->view("admin/latihan/js/index");
 	}
 	
+// ---------------------------------------------------------------- E LEARNING NEW APPLICATION ----------------------------------------------------------------
+
+	public function learnmain(){
+		$data['user'] = $this->db->get_where("user",['role'=>2])->num_rows();
+		$data['class'] = $this->db->get("learn_class")->num_rows();
+		$data['lesson'] = $this->db->get("lesson")->num_rows();
+		$data['modul'] = $this->db->get("modul")->num_rows();
+		$data['materi'] = $this->db->get("chapter")->num_rows();
+		$data['discuss'] = $this->db->get("discuss")->num_rows();
+		$data['latihan'] = $this->db->get_where("question",['type' => 'practice'])->result_array();
+		
+		$data['class_data'] = $this->db->get("class")->result_array();
+		$this->load->view("admin/app/header");
+		$this->load->view("admin/app/sidebar");
+		$this->load->view("admin/app/navbar");
+		$this->load->view("admin/learnmain/index", $data);	
+		$this->load->view("admin/app/footer");
+		$this->load->view("admin/dashboard/js/index");
+	}
+	
+    public function learnclass(){
+		$this->load->view("admin/app/header");
+		$this->load->view("admin/app/sidebar");
+		$this->load->view("admin/app/navbar");
+		$this->load->view("admin/learnmain/class");	
+		$this->load->view("admin/app/footer");
+	}
 }
